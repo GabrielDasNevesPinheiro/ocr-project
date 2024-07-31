@@ -1,2 +1,6 @@
 # ocr-project
-a basic OCR.
+
+### ToDo
+* adaptar parâmetros de treino
+* prevenir overfitting
+* trackear estatísticas de treino
